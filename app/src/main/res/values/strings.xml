@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="your_result_is">Your result is</string>
+    <string name="textview">TextView</string>
+</resources>
